@@ -19,7 +19,10 @@
         "mobile": false,
         "styles": [
             "content/css/vendor.css",
-            "content/css/global.css"
+            "content/css/global.css",
+            "content/css/bootstrap.css",
+            "content/css/bootstrap-grid.css",
+            "content/css/bootstrap-reboot.css"
         ],
         "scripts": []
     }],
